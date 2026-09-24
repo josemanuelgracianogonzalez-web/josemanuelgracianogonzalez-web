@@ -40,7 +40,7 @@
 
 <div align="center">
 
-<img src="./assets/dino-banner.png"
+<img src="https://es.pinterest.com/pin/423901383680654314/"
   width="100%"
   alt="Banner del juego del dinosaurio de Google">
 
