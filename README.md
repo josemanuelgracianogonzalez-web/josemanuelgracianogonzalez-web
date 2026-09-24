@@ -1,59 +1,28 @@
-<table>
-<tr>
+<div align="center">
 
-<!-- ==================== COLUMNA IZQUIERDA ==================== -->
+# 👨‍💻 José Manuel
 
-<td width="25%" valign="top" align="center">
+### Estudiante de Desarrollo de Software
 
-  <br>
+💻 Programación · 🚀 Aprendiendo y creando proyectos · 🧠 Desarrollo de Software
 
-<img src="https://github.com/josemanuelgracianogonzalez-web.png"
-    width="180"
-    style="border-radius: 50%;">
+</div>
 
-<br><br>
-
-  <h2>José Manuel</h2>
-
-  <p>
-    <b>Estudiante de<br>
-    Desarrollo de Software</b>
-  </p>
-
-  <br>
-
-💻 Programación
-<br>
-🚀 Aprendiendo y creando proyectos
-<br>
-🧠 Desarrollo de Software
-
-<br><br>
-
-</td>
-
-<!-- ==================== COLUMNA DERECHA ==================== -->
-
-<td width="75%" valign="top">
+---
 
 <!-- ==================== BANNER ==================== -->
 
 <div align="center">
 
-<img src="https://developer.arm.com/-/media/global/developer-hub/uat-new/ai/proof%2011/arm-udx-masthead-dark-developer-hub-pages-1920x390px.png? h=390&hash=E6F053A00C7C3D65BE8A1656985ADADC&iar=0&rev=26b06fd4e6364ac2 8efce1435d08b9c7&revision=26b06fd4-e636-4ac2-8efc-e1435d08b9c7&w=1920"
-  width="30%"
-  height="50%"
-  alt="Banner del juego del dinosaurio de Google">
+<img src="https://developer.arm.com/-/media/global/developer-hub/uat-new/ai/proof%2011/arm-udx-masthead-dark-developer-hub-pages-1920x390px.png"
+width="100%"
+alt="Banner de programación">
 
 </div>
 
 <br>
 
 <!-- ==================== SOBRE MÍ ==================== -->
-
-<table width="100%">
-<tr>
-<td>
 
 <h2>👨‍💻 Sobre mí</h2>
 
@@ -73,17 +42,9 @@
   crear proyectos y aprender nuevas tecnologías.
 </p>
 
-</td>
-</tr>
-</table>
-
 <br>
 
 <!-- ==================== TECNOLOGÍAS ==================== -->
-
-<table width="100%">
-<tr>
-<td>
 
 <h2>🛠️ Tecnologías que manejo</h2>
 
@@ -91,66 +52,56 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=java"
-  width="70">
-
-   
-
-<img src="https://skillicons.dev/icons?i=javascript"
-  width="70">
-
-   
-
-<img src="https://skillicons.dev/icons?i=html"
-  width="70">
-
-   
-
-<img src="https://skillicons.dev/icons?i=css"
-  width="70">
-
-   
-
-<img src="https://img.shields.io/badge/SQL-Database-003B57?style=for-the-badge"
-  height="45">
-
-</div>
+<img src="https://skillicons.dev/icons?i=java" width="70">
 
 <br>
 
-<div align="center">
-
 <b>Java</b>
-        
+
+<br><br>
+
+<img src="https://skillicons.dev/icons?i=javascript" width="70">
+
+<br>
 
 <b>JavaScript</b>
-      
+
+<br><br>
+
+<img src="https://skillicons.dev/icons?i=html" width="70">
+
+<br>
 
 <b>HTML</b>
-        
+
+<br><br>
+
+<img src="https://skillicons.dev/icons?i=css" width="70">
+
+<br>
 
 <b>CSS</b>
-        
+
+<br><br>
+
+<img src="https://img.shields.io/badge/SQL-Database-003B57?style=for-the-badge"
+height="45">
+
+<br>
 
 <b>SQL</b>
 
 </div>
 
-</td>
-</tr>
-</table>
-
-</td>
-</tr>
-</table>
-
 <br>
+
+---
 
 <!-- ==================== PROYECTOS ==================== -->
 
 <h2>🚀 Algunos de mis proyectos</h2>
 
-<table>
+<table width="100%">
 <tr>
 
 <td width="33%" align="center">
@@ -206,7 +157,7 @@ Ver proyecto
 
 <br>
 
-<!-- ==================== CONTACTO ==================== -->
+<!-- ==================== ACTUALMENTE APRENDIENDO ==================== -->
 
 <div align="center">
 
@@ -220,11 +171,19 @@ Desarrollo de Software · Programación · Desarrollo Web
 
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
 
+<br><br>
+
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+
+<br><br>
 
 <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white">
 
+<br><br>
+
 <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+
+<br><br>
 
 <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge">
 
