@@ -49,3 +49,21 @@
     </td>
   </tr>
 </table>
+
+<br>
+
+<h2 align="center">🚀 Mis proyectos</h2>
+
+<div align="center">
+  <a href="https://github.com/josemanuelgracianogonzalez-web/taller_cajero_automatico">
+    <img src="https://img.shields.io/badge/🏧%20Cajero%20Automático-181717?style=for-the-badge&logo=github&logoColor=white">
+  </a>
+  &nbsp;
+  <a href="https://github.com/josemanuelgracianogonzalez-web/Segundo-semestre-taller-de-l-gica-java-backen-I.">
+    <img src="https://img.shields.io/badge/☕%2040%20Ejercicios%20Java-181717?style=for-the-badge&logo=github&logoColor=white">
+  </a>
+  &nbsp;
+  <a href="https://github.com/josemanuelgracianogonzalez-web/Tercer-Momento">
+    <img src="https://img.shields.io/badge/🎮%20Página%20de%20Videojuegos-181717?style=for-the-badge&logo=github&logoColor=white">
+  </a>
+</div>
