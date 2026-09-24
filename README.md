@@ -1,4 +1,7 @@
 <div align="center">
+<img src="https://images.pexels.com/photos/6424583/pexels-photo-6424583.jpeg?cs=tinysrgb&dpr=1&w=500" width="100%" alt="Banner de programación">
+
+<br><br>
 
 <h2>👨‍💻 Sobre mí</h2>
 
