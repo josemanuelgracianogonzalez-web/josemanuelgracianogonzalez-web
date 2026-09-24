@@ -40,7 +40,7 @@
 
 <div align="center">
 
-<img src="https://i.pinimg.com/236x/d9/3b/45/d93b4571213dbb479f6344e92fe7b89f.jpg"
+<img src="https://developer.arm.com/-/media/global/developer-hub/uat-new/ai/proof%2011/arm-udx-masthead-dark-developer-hub-pages-1920x390px.png? h=390&hash=E6F053A00C7C3D65BE8A1656985ADADC&iar=0&rev=26b06fd4e6364ac2 8efce1435d08b9c7&revision=26b06fd4-e636-4ac2-8efc-e1435d08b9c7&w=1920"
   width="30%"
   height="50%"
   alt="Banner del juego del dinosaurio de Google">
