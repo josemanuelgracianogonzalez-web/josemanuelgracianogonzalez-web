@@ -40,7 +40,7 @@
 
 <div align="center">
 
-<img src="https://es.pinterest.com/pin/423901383680654314/"
+<img src="https://i.pinimg.com/236x/d9/3b/45/d93b4571213dbb479f6344e92fe7b89f.jpg"
   width="100%"
   alt="Banner del juego del dinosaurio de Google">
 
