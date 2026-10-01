@@ -68,5 +68,3 @@
   </a>
 </div>
 
-
-//necesito que este archivo readme para mi git-hub lo mejores, quiero que los proyectos de cajero automatico, 40 ejercicios java y pagina de compra de juegos sean los que mas llamen la atencion, no olvides mostrar las mismas erramientas que ya estan las cuales son los que se usar
