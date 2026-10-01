@@ -13,7 +13,8 @@
 <td align="center" width="33%" valign="top">
 <h3>🏧 Cajero Automático</h3>
 <p>
-Sistema de cajero automático por consola desarrollado para practicar lógica de programación, manejo de usuarios, saldo y historial de movimientos. Funciona únicamente en terminal, sin interfaz gráfica.
+Sistema de cajero automático desarrollado para practicar lógica de programación, manejo de usuarios, saldo y historial de movimientos.
+  Funciona únicamente en terminal sin interfaz grafica.
 </p>
 </p>
 <br>
