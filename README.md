@@ -1,7 +1,15 @@
-<!-- Sección de Proyectos Destacados -->
-<h2>⭐ Proyectos destacados</h2>
+<h1 align="center">Hola, soy Jose Manuel 👋</h1>
 
-<p>Estos son algunos de los proyectos en los que aplico mis conocimientos de programación.</p>
+<p align="center">
+  Estudiante y desarrollador enfocado en lógica de programación, desarrollo web y bases de datos.
+</p>
+
+<br>
+
+<!-- Sección de Proyectos Destacados -->
+<h2 align="center">⭐ Proyectos destacados</h2>
+
+<p align="center">Estos son algunos de los proyectos en los que aplico mis conocimientos de programación.</p>
 
 <table width="100%">
   <tr>
@@ -46,27 +54,27 @@
 <br>
 
 <!-- Sección de Tecnologías y Herramientas -->
-<h2>🛠️ Tecnologías y Herramientas</h2>
+<h2 align="center">🛠️ Tecnologías y Herramientas</h2>
 
-<table>
+<table align="center">
   <tr>
-    <td align="center" width="20%">
+    <td align="center" width="120">
       <img src="https://skillicons.dev/icons?i=java" width="50" alt="Java"><br>
       <b>Java</b>
     </td>
-    <td align="center" width="20%">
+    <td align="center" width="120">
       <img src="https://skillicons.dev/icons?i=javascript" width="50" alt="JavaScript"><br>
       <b>JavaScript</b>
     </td>
-    <td align="center" width="20%">
+    <td align="center" width="120">
       <img src="https://skillicons.dev/icons?i=html" width="50" alt="HTML"><br>
       <b>HTML</b>
     </td>
-    <td align="center" width="20%">
+    <td align="center" width="120">
       <img src="https://skillicons.dev/icons?i=css" width="50" alt="CSS"><br>
       <b>CSS</b>
     </td>
-    <td align="center" width="20%">
+    <td align="center" width="120">
       <img src="https://skillicons.dev/icons?i=mysql" width="50" alt="MySQL"><br>
       <b>MySQL</b>
     </td>
