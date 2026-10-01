@@ -3,7 +3,7 @@
 </div>
 
 <p align="center">
-💻 Estudiante de desarrollo de software y apasionado por la programación backend, frontend y las bases de datos. Me enfoco en resolver problemas mediante la creación de aplicaciones funcionales, ordenadas y eficientes.
+💻  Estudiante de desarrollo de software en <b>CESDE</b> y apasionado por la programación backend, frontend y las bases de datos. Me enfoco en resolver problemas mediante la creación de aplicaciones funcionales, ordenadas y eficientes.
 </p>
 
 <h2 align="center">⭐ Proyectos Destacados</h2>
