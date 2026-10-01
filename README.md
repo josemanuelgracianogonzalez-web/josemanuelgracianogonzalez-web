@@ -1,80 +1,72 @@
-<h1 align="center">Hola, soy Jose Manuel 👋</h1>
+<div align="center"> 
+  <img src="https://images.pexels.com/photos/6424583/pexels-photo-6424583.jpeg?cs=tinysrgb&dpr=1&w=500" width="100%" height="180" style="object-fit: cover;" alt="Banner de programación">
+  <br><br> 
+</div>
 
 <p align="center">
-  Estudiante y desarrollador enfocado en lógica de programación, desarrollo web y bases de datos.
+  Hola, soy <b>José Manuel</b>, estudiante de
+  <b>Desarrollo de Software en CESDE</b>.
+</p>
+
+<p align="center">
+  Actualmente estoy aprendiendo y desarrollando proyectos
+  utilizando diferentes tecnologías de programación y desarrollo web.
+</p>
+
+<p align="center">
+  Me interesa seguir mejorando mis habilidades,
+  crear proyectos y aprender nuevas tecnologías.
 </p>
 
 <br>
 
-<h2 align="center">⭐ Proyectos destacados</h2>
+<h2 align="center">🛠️ Herramientas que manejo</h2>
 
-<p align="center">Estos son algunos de los proyectos en los que aplico mis conocimientos de programación.</p>
+<br>
 
-<table width="100%">
+<!-- Tabla para alinear verticalmente icono + texto sin bordes -->
+<table align="center">
   <tr>
-    <td align="center" width="33%" valign="top">
-      <h3>🏧 Cajero Automático</h3>
-      <p>
-        Sistema de cajero automático desarrollado para practicar
-        lógica de programación, manejo de usuarios, saldo y movimientos.
-      </p>
-      <br>
-      <a href="https://github.com/josemanuelgracianogonzalez-web/taller_cajero_automatico">
-        <img src="https://img.shields.io/badge/VER%20PROYECTO-181717?style=for-the-badge&logo=github&logoColor=white" alt="Ver Proyecto">
-      </a>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=java" width="50"><br>
+      <b>Java</b>
     </td>
-
-    <td align="center" width="33%" valign="top">
-      <h3>☕ 40 Ejercicios Java</h3>
-      <p>
-        Colección de ejercicios desarrollados en Java
-        para fortalecer lógica de programación y resolución de problemas.
-      </p>
-      <br>
-      <a href="https://github.com/josemanuelgracianogonzalez-web/Segundo-semestre-taller-de-l-gica-java-backen-I.">
-        <img src="https://img.shields.io/badge/VER%20PROYECTO-181717?style=for-the-badge&logo=github&logoColor=white" alt="Ver Proyecto">
-      </a>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=javascript" width="50"><br>
+      <b>JavaScript</b>
     </td>
-
-    <td align="center" width="33%" valign="top">
-      <h3>🎮 Página de Videojuegos</h3>
-      <p>
-        Página web enfocada en la compra y presentación
-        de videojuegos, aplicando estructura y diseño web.
-      </p>
-      <br>
-      <a href="https://github.com/josemanuelgracianogonzalez-web/Tercer-Momento">
-        <img src="https://img.shields.io/badge/VER%20PROYECTO-181717?style=for-the-badge&logo=github&logoColor=white" alt="Ver Proyecto">
-      </a>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=html" width="50"><br>
+      <b>HTML</b>
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=css" width="50"><br>
+      <b>CSS</b>
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=mysql" width="50"><br>
+      <b>MySQL</b>
     </td>
   </tr>
 </table>
 
 <br>
 
-<h2 align="center">🛠️ Tecnologías y Herramientas</h2>
+<h2 align="center">🚀 Mis proyectos</h2>
 
-<table align="center">
-  <tr>
-    <td align="center" width="120">
-      <img src="https://skillicons.dev/icons?i=java" width="50" alt="Java"><br>
-      <b>Java</b>
-    </td>
-    <td align="center" width="120">
-      <img src="https://skillicons.dev/icons?i=javascript" width="50" alt="JavaScript"><br>
-      <b>JavaScript</b>
-    </td>
-    <td align="center" width="120">
-      <img src="https://skillicons.dev/icons?i=html" width="50" alt="HTML"><br>
-      <b>HTML</b>
-    </td>
-    <td align="center" width="120">
-      <img src="https://skillicons.dev/icons?i=css" width="50" alt="CSS"><br>
-      <b>CSS</b>
-    </td>
-    <td align="center" width="120">
-      <img src="https://skillicons.dev/icons?i=mysql" width="50" alt="MySQL"><br>
-      <b>MySQL</b>
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <a href="https://github.com/josemanuelgracianogonzalez-web/taller_cajero_automatico">
+    <img src="https://img.shields.io/badge/🏧%20Cajero%20Automático-181717?style=for-the-badge&logo=github&logoColor=white">
+  </a>
+  &nbsp;
+  <a href="https://github.com/josemanuelgracianogonzalez-web/Segundo-semestre-taller-de-l-gica-java-backen-I.">
+    <img src="https://img.shields.io/badge/☕%2040%20Ejercicios%20Java-181717?style=for-the-badge&logo=github&logoColor=white">
+  </a>
+  &nbsp;
+  <a href="https://github.com/josemanuelgracianogonzalez-web/Tercer-Momento">
+    <img src="https://img.shields.io/badge/🎮%20Página%20de%20Videojuegos-181717?style=for-the-badge&logo=github&logoColor=white">
+  </a>
+</div>
+
+
+//necesito que este archivo readme para mi git-hub lo mejores, quiero que los proyectos de cajero automatico, 40 ejercicios java y pagina de compra de juegos sean los que mas llamen la atencion, no olvides mostrar las mismas erramientas que ya estan las cuales son los que se usar
