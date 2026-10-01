@@ -6,7 +6,6 @@
 
 <br>
 
-<!-- Sección de Proyectos Destacados -->
 <h2 align="center">⭐ Proyectos destacados</h2>
 
 <p align="center">Estos son algunos de los proyectos en los que aplico mis conocimientos de programación.</p>
@@ -53,7 +52,6 @@
 
 <br>
 
-<!-- Sección de Tecnologías y Herramientas -->
 <h2 align="center">🛠️ Tecnologías y Herramientas</h2>
 
 <table align="center">
