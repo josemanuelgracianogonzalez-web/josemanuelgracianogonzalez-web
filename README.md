@@ -13,7 +13,8 @@
 <td align="center" width="33%" valign="top">
 <h3>🏧 Cajero Automático</h3>
 <p>
-Sistema de cajero automático desarrollado para practicar lógica de programación, manejo de usuarios, saldo y historial de movimientos (funcional en consola).
+Sistema de cajero automático por consola desarrollado para practicar lógica de programación, manejo de usuarios, saldo y historial de movimientos. Funciona únicamente en terminal, sin interfaz gráfica.
+</p>
 </p>
 <br>
 <a href="https://github.com/josemanuelgracianogonzalez-web/taller_cajero_automatico">
